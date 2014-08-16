@@ -1,16 +1,16 @@
 {
-  "name": "cursive-website",
+  "name": "capital-website",
   "version": "0.0.1",
   "authors": [
     "Jean-Laurent de Morlhon <jeanlaurent@morlhon.net>"
   ],
-  "description": "Serpodile Cursive App Website",
+  "description": "Serpodile Capital App Website",
   "main": "index.html",
   "moduleType": [
     "globals"
   ],
   "license": "COPYRIGHT",
-  "homepage": "cursive.serpodile.com",
+  "homepage": "capital.serpodile.com",
   "private": true,
   "ignore": [
     "**/.*",

@@ -71,7 +71,7 @@ module.exports = (grunt) ->
         options:
           dist: 'public'
           pull: false
-          cname: 'number.serpodile.com'
+          cname: 'capital.serpodile.com'
 
   grunt.loadNpmTasks 'grunt-contrib-less'
   grunt.loadNpmTasks 'grunt-contrib-watch'
