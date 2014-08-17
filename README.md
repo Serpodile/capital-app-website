@@ -28,3 +28,11 @@ grunt build
 ```
 grunt deploy
 ````
+
+
+# Recipes
+
+## creating ico
+convert ../drawOnShape/custom-sources/capital/apple-full/ItunesArtwork\@2x.png -resize 256x256 favicon.ico
+
+## creating header image
