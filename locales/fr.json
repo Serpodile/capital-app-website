@@ -46,10 +46,9 @@
 	"privacy": "<a href=\"http://blog.serpodile.com/vieprivee/\">Vie Privée</a>",
 	"legal": "<a href=\"http://blog.serpodile.com/mentions-legales/\">Mention légales</a>",
 	"shape-trait-debout": "un trait debout",
-	"shape-1": "Un",
-	"shape-2": "Deux",
+	"shape-h": "H",
 	"shape-crochet-envers": "un crochet à l'envers",
-	"shape-3": "Trois",
+	"shape-d": "D",
 	"shape-pont-endroit": "un pont à l'endroit",
 	"shape-trait-couche": "un trait couché",
 	"difficulty-title": "Difficulté progressive",
@@ -58,5 +57,8 @@
 	"outlined-6": "Six sans aide visuelle",
 	"6-shapes-caption": "En premier, l'enfant s'entraine sur des formes de bases, afin d'acquérir le bon geste. Ces formes ont des couleurs distinctives qui aident à la mémorisation.",
 	"basic-6-caption": "En second l'enfant enchaine les gestes unitaires pour former une lettre complète. Les couleurs de fond des parties de la lettre rappellent celle des formes de base.",
-	"outlined-6-caption": "Finalement, l'enfant refait le geste acquis sans aucune aide visuelle, en autonomie. Le contour du lettre rappelle la couleur des formes de base."
+	"outlined-6-caption": "Finalement, l'enfant refait le geste acquis sans aucune aide visuelle, en autonomie. Le contour du lettre rappelle la couleur des formes de base.",
+	"shape-3": "shape-3",
+	"shape-2": "shape-2",
+	"shape-traitdebout": "shape-traitdebout"
 }
