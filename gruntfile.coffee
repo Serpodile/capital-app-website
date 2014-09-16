@@ -12,7 +12,7 @@ module.exports = (grunt) ->
           bare: true
         files: [
           src: ["app/src/**/*.coffee"]
-          dest: "public/src/cursive.js"
+          dest: "public/src/capital.js"
         ]
 
     less:
