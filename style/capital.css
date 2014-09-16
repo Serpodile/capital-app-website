@@ -138,10 +138,13 @@ body #screenshot-container h2 {
   margin-bottom: 20px;
 }
 body #screenshot-container .thumbnail {
-  background-color: #e9e7eb;
+  background-color: #eeecf3;
 }
 body #screenshot-container .thumbnail img {
   height: 300px;
+}
+body #screenshot-container .white {
+  background-color: #F7F6F7;
 }
 body #screenshot-container #screenshots {
   text-align: center;
