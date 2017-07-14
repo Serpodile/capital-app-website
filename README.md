@@ -4,11 +4,6 @@ should be up at http://serpodile.github.io/number-app-website and http://number.
 
 # Install and Run
 
-## pre-requisite (grunt)
-```
-npm install grunt-cli
-```
-
 ## Install dep once
 ```
 npm install
@@ -16,17 +11,17 @@ npm install
 
 ## Run in dev mode with livereload
 ```
-grunt
+npm run dev
 ```
 
 ## Build locally
 ```
-grunt build
+npm run build
 ```
 
 ## Deploy to gh-pages
 ```
-grunt deploy
+npm run deploy
 ````
 
 
